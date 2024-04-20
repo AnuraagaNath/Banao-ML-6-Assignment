@@ -1,0 +1,12 @@
+path: /home/anuraaga/Documents/banao_assignment_cv/data
+train: images
+val: images
+
+names:
+  0: logo
+  1: buttons
+  2: input fields
+  3: links
+  4: texts
+  5: navigation dots
+  6: images

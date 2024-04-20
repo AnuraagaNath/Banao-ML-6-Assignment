@@ -1,0 +1,3 @@
+
+# run this command in CLI to get the predicted images from test directory to run/detect/predict
+yolo task=detect mode=predict model=runs/detect/train2/weights/best.pt conf=0.25 source=data/test
