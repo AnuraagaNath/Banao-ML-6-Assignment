@@ -1,7 +1,5 @@
 
-# Banao Technologies Internship Tasks
-
-Task #1: Figma web elements detection task.
+# Figma Element Detector
 
 Model used: YoLoV8 + annotation using CVAT
 
